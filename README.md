@@ -7,3 +7,6 @@ This is a web application that uses GraphQL to access a MongoDB server and save 
 ![Screencap](/client/public/bookys.PNG)
 
 ## Links
+<a href= "https://mern-book-thing.herokuapp.com/" target="_blank">Live Page</a>
+
+<a href= "https://github.com/yohuck/book-search" target="_blank">GitHub Repo</a>
